@@ -1,2 +1,2 @@
 # RGIT-demo
-author-Wasi
+Author-Wasi
